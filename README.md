@@ -1,9 +1,10 @@
-Visual Sound Angry Fuzz Reverse Engineer
-========================================
+Visual Sound Angry Fuzz Trace 
+=============================
 
 **Reverse engineering of a Visual Sound Angry Fuzz effects pedal.**
 
-Traced from photos uploaded on <freestompboxes.org>
+Traced from photos uploaded on [freestompboxes.org](http://www.freestompboxes.org).  
+
 Note that the schematic may very well contain errors, use at your own risk!
 
 Circuit traced and schematic drawn by Jonas Sjöberg in 2012.
